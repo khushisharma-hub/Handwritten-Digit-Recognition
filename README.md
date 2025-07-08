@@ -1,6 +1,6 @@
 # 🧠 Handwritten Digit Recognition using CNN
 
-A deep learning project that uses Convolutional Neural Networks (CNN) to recognize handwritten digits from the MNIST dataset. Built as part of the **Tamizan Skills Rise Internship Program**.
+A deep learning project that uses Convolutional Neural Networks (CNN) to recognize handwritten digits from the MNIST dataset. Built as part of the **Tamizhan Skills Rise Internship Program**.
 
 ---
 
@@ -8,8 +8,7 @@ A deep learning project that uses Convolutional Neural Networks (CNN) to recogni
 
 - **Intern Name:** Khushi Sharma  
 - **Intern ID:** TS-RISE-MLAI-2514  
-- **Domain:** Machine Learning & AI  
-- **Internship ID:** Tanzania  
+- **Domain:** Machine Learning & AI   
 - **Date:** July 8, 2025
 
 ---
